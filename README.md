@@ -4,7 +4,7 @@
 
 <!-- Introduction-->
 <br>
-<p align="center"><samp>A passionate Web Developer from Indonesia student at Jakarta State University</samp></p>
+<p align="center"><samp>A passionate Web Developer from Indonesia, student at Jakarta State University</samp></p>
 
 
 
